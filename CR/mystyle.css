@@ -1,0 +1,28 @@
+.div{
+    text-align:center;
+}
+
+.btn{
+    background-color: black;
+    color: silver;
+}
+
+.player{
+    align-content: center;
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: auto;
+    height: auto;
+}
+
+.header{
+    background-color: black;
+    color: silver;
+    text-align: center;
+    width: 100%;
+}
